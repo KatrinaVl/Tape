@@ -1,0 +1,9 @@
+input=my_tests/test_files/test_in_1.txt
+output=my_tests/test_files/test_out_1.txt
+tmp=tmp/
+N=12
+M=20
+read_delay=5
+write_delay=10
+seek_delay=30
+shift_delay=3
